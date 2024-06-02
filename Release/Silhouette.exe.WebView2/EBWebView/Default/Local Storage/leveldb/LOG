@@ -1,0 +1,6 @@
+2024/06/02-19:01:43.501 b14c Reusing MANIFEST C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/02-19:01:43.511 b14c Recovering log #29
+2024/06/02-19:01:43.513 b14c Reusing old log C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000029.log 
+2024/06/02-19:08:51.823 b8d0 Level-0 table #34: started
+2024/06/02-19:08:51.837 b8d0 Level-0 table #34: 12588 bytes OK
+2024/06/02-19:08:51.840 b8d0 Delete type=0 #29

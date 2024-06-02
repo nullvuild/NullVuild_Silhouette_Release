@@ -1,0 +1,15 @@
+2024/06/02-14:36:09.602 8f60 Reusing MANIFEST C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/02-14:36:09.613 8f60 Recovering log #26
+2024/06/02-14:36:09.616 8f60 Reusing old log C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000026.log 
+2024/06/02-16:00:22.561 35c Level-0 table #30: started
+2024/06/02-16:00:22.577 35c Level-0 table #30: 12691 bytes OK
+2024/06/02-16:00:22.579 35c Delete type=0 #26
+2024/06/02-16:00:22.579 8f60 Compacting 4@0 + 1@1 files
+2024/06/02-16:00:22.583 8f60 Generated table #31@0: 15 keys, 1214 bytes
+2024/06/02-16:00:22.583 8f60 Compacted 4@0 + 1@1 files => 1214 bytes
+2024/06/02-16:00:22.585 8f60 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/02-16:00:22.587 8f60 Delete type=2 #21
+2024/06/02-16:00:22.587 8f60 Delete type=2 #23
+2024/06/02-16:00:22.587 8f60 Delete type=2 #25
+2024/06/02-16:00:22.587 8f60 Delete type=2 #27
+2024/06/02-16:00:22.587 8f60 Delete type=2 #30

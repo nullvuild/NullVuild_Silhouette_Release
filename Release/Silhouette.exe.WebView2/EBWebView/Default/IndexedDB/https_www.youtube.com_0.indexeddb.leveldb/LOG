@@ -1,0 +1,12 @@
+2024/06/02-19:01:52.879 70a4 Reusing MANIFEST C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/02-19:01:52.879 70a4 Recovering log #14
+2024/06/02-19:01:52.885 70a4 Reusing old log C:\myTask\502_NullVuild_Silhouette\Silhouette\bin\Release\Silhouette.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2024/06/02-19:21:23.564 70a4 Level-0 table #19: started
+2024/06/02-19:21:23.575 70a4 Level-0 table #19: 1108274 bytes OK
+2024/06/02-19:21:23.577 70a4 Delete type=0 #14
+2024/06/02-19:35:01.918 70a4 Compacting 1@1 + 1@2 files
+2024/06/02-19:35:01.925 70a4 Generated table #20@1: 399 keys, 31730 bytes
+2024/06/02-19:35:01.925 70a4 Compacted 1@1 + 1@2 files => 31730 bytes
+2024/06/02-19:35:01.927 70a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/02-19:35:01.928 70a4 Delete type=2 #16
+2024/06/02-19:35:01.928 70a4 Delete type=2 #19

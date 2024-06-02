@@ -1,0 +1,15 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2024 Nullvuild Silhouette
+
+This license allows others to download this software and share it with others as long as they credit you, but they can’t modify, commercially use, or sell it in any way.
+
+Third-party Libraries:
+- .NET Framework: This software uses .NET Framework, which is licensed under Microsoft's Standard License. Please review the license terms from Microsoft's official documentation.
+- Webview2: This software includes the Microsoft Edge WebView2 Runtime, which is provided under the Microsoft Edge WebView2 Runtime License. The following conditions apply:
+  * Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+  * The name of Microsoft Corporation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  * Please see the full license terms linked here: [Microsoft Edge WebView2 Runtime License](https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.2478.35/license).
+
+For each third-party library, please ensure to review and adhere to their respective license agreements. This software indirectly uses these libraries, and it is the responsibility of the user to comply with the respective licenses.
